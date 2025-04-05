@@ -1,0 +1,14 @@
+# Ignore sensitive and unnecessary files
+wp-config.php
+wp-content/cache/
+wp-content/upgrade/
+*.log
+*.sql
+*.zip
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
